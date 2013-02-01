@@ -22,9 +22,7 @@
       "url": "http://opensource.org/licenses/BSD-3-Clause"
     }
   ],
-  "dependencies": {
-    "amdefine": ">=0.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "dryice": ">=0.4.8"
   }
